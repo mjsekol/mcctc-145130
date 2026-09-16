@@ -1,0 +1,34 @@
+{
+  "shop": "Corner Pocket Cards",
+  "feed_note": "Free to use in programs. Please request at most once an hour.",
+  "events": [
+    {
+      "date": "2026-11-20",
+      "name": "Starbound Duel Friday Night",
+      "entry_fee": 5,
+      "seats": 24,
+      "seats_taken": 19
+    },
+    {
+      "date": "2026-11-21",
+      "name": "Kingdoms of Ash Learn to Play",
+      "entry_fee": 0,
+      "seats": 16,
+      "seats_taken": 7
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Starbound Duel Friday Night",
+      "entry_fee": 5,
+      "seats": 24,
+      "seats_taken": 11
+    },
+    {
+      "date": "2026-12-05",
+      "name": "Kingdoms of Ash Winter Qualifier",
+      "entry_fee": 15,
+      "seats": 32,
+      "seats_taken": 30
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# robots.txt for Corner Pocket Cards
+User-agent: *
+Crawl-delay: 3
+Disallow: /account/
+Disallow: /wishlists/
+Disallow: /cart/

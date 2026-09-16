@@ -1,0 +1,64 @@
+# SECRETS - never commit
+# Case variants matter: gitignore is case-sensitive on Linux and macOS.
+# Match anywhere in the name, not only at the start. A file called
+# ai_automation_api_keys.txt is a real filename on this machine and an earlier
+# version of these rules did NOT catch it, because the pattern was anchored to
+# the front. Verified: it is caught now.
+*api_key*
+*api_keys*
+*API_KEY*
+*API_Keys*
+*apikey*
+*APIKEY*
+*api-key*
+*_keys.txt
+*_KEYS.txt
+*.key
+*.pem
+*.pfx
+*.p12
+*.token
+.env
+.env.*
+*.env
+.envrc
+credentials.json
+secrets/
+_secrets/
+
+# Demo and classroom artifacts.
+# The Unit 0 Thursday .gitignore demonstration creates a file named secrets.txt
+# containing a fake key. "secrets/" above matches a directory, not that file.
+# Without the line below, running the demo anywhere in this tree tracks it.
+secrets.txt
+scratch.txt
+
+# STUDENT DATA - never commit, in either repository
+# This is a school. Anything with a real student's name, grade, schedule, or work
+# in it does not belong in version control, private repository or not.
+grades/
+rosters/
+student-work/
+submissions/
+*roster*.csv
+*roster*.xlsx
+*grades*.csv
+*grades*.xlsx
+*.gradebook
+
+# Build artifacts
+node_modules/
+*.pdf.tmp
+~$*
+.DS_Store
+Thumbs.db
+
+# Generated slide decks ARE committed to the instructor repository.
+# They are the artifact projected in class, and having them on any machine you
+# clone to is worth more than the few megabytes. The .md outline remains the
+# source of truth; the export is a convenience.
+# To stop tracking them, uncomment the next line.
+# **/exports/
+
+# Gamma sidecars record which generation produced which deck. Keep them.
+# *.gamma.json  <- deliberately NOT ignored
