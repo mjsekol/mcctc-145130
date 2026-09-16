@@ -1,0 +1,20 @@
+Sound: "soft-chime-end.wav"
+Created by M. Okonkwo, 2025
+
+SPDX-License-Identifier: CC-BY-NC-4.0
+
+This recording is licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License, published by Creative
+Commons at:
+
+    https://creativecommons.org/licenses/by-nc/4.0/
+
+The deed at that address is a summary. The legal code linked from the deed is
+the license. Read the legal code.
+
+Two things in this license are worth finding yourself. The first is what the
+license requires you to include when you share the work. The second is how the
+license defines the purpose you may not use it for.
+
+INVENTED COMPONENT. Written for the MCCTC 145130 Module 3 licensing fixture.
+The recording and the person named above are not real.

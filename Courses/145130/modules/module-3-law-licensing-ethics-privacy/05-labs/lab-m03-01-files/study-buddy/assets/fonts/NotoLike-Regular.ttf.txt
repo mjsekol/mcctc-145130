@@ -1,0 +1,12 @@
+This file stands in for NotoLike-Regular.ttf so this fixture carries no binaries.
+
+Filename as downloaded: NotoLike-Regular.ttf
+Used for: the printable card sheet and the showcase poster.
+Downloaded by the Study Buddy team from a font site. The team does not remember
+which one.
+
+No license file was downloaded with it. There is no license file in this
+directory.
+
+INVENTED COMPONENT. Written for the MCCTC 145130 Module 3 licensing fixture.
+NotoLike is not a real font.

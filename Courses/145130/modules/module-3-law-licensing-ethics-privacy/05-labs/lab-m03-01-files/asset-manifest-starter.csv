@@ -1,0 +1,2 @@
+path,component,origin,license_id,license_file,permits,requires,forbids,action_needed,verified_by
+vendor/pocketgrid,pocketgrid table formatter,copied into vendor/ by the team,MIT,vendor/pocketgrid/LICENSE,,,,,vendor/pocketgrid/LICENSE

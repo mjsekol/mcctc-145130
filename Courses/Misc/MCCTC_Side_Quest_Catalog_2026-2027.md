@@ -358,8 +358,11 @@ conclusion about which element was doing the most work. Most students are surpri
 ---
 
 ## SQ-19 · The Bias Audit
-**Unlocks:** 145130 · **Time:** two blocks · **Difficulty:** ★★★
-**Competency:** 2.14.2, 2.14.4, 1.5.5
+**Unlocks:** 145130, Module 3 · **Time:** two blocks · **Difficulty:** ★★★
+**Competency:** 2.14.2, 2.14.4, 2.14.6
+
+**Materials are built and in `side-quests/SQ-19-The-Bias-Audit/`.** A probe runner, an
+analyzer, and a stub model server so the method is testable with no model installed.
 
 Design a repeatable test for bias in a locally hosted model's output. Ask for the
 same kind of thing many times, varying only one detail, and record what changes.

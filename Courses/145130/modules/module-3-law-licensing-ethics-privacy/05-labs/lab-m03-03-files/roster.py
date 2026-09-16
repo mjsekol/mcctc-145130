@@ -1,0 +1,106 @@
+"""The Riverbend Middle roster fixture.
+
+EVERY RECORD IN THIS FILE IS INVENTED. Riverbend Middle does not exist. The
+students, guardians, addresses, and identifiers below were written for this lab.
+No real student data appears anywhere in this course, in any file, ever.
+
+The fields are the fields a real student information system actually carries,
+which is the point. Look at how much is here, then look at how little any one
+job needs.
+"""
+
+ROSTER = [
+    {
+        "student_id": "RM-40118",
+        "first_name": "Priya",
+        "last_name": "Raman",
+        "date_of_birth": "2011-03-14",
+        "grade": 7,
+        "home_address": "4417 Alder Court, Riverbend",
+        "guardian_name": "S. Raman",
+        "guardian_email": "s.raman@example.invalid",
+        "guardian_phone": "555-0142",
+        "bus_route": "12",
+        "meal_status": "reduced",
+        "services_plan": "504",
+        "photo_consent": False,
+        "absences_this_term": 9,
+        "tardies_this_term": 2,
+        "counselor_note": "Missed two weeks in October for a family matter.",
+    },
+    {
+        "student_id": "RM-40119",
+        "first_name": "Devon",
+        "last_name": "Whitaker",
+        "date_of_birth": "2011-09-02",
+        "grade": 7,
+        "home_address": "88 Kettle Run Road, Riverbend",
+        "guardian_name": "T. Whitaker",
+        "guardian_email": "t.whitaker@example.invalid",
+        "guardian_phone": "555-0177",
+        "bus_route": "12",
+        "meal_status": "paid",
+        "services_plan": None,
+        "photo_consent": True,
+        "absences_this_term": 1,
+        "tardies_this_term": 0,
+        "counselor_note": "",
+    },
+    {
+        "student_id": "RM-40120",
+        "first_name": "Marisol",
+        "last_name": "Vega",
+        "date_of_birth": "2010-12-21",
+        "grade": 8,
+        "home_address": "1290 Spencer Street Apt 3, Riverbend",
+        "guardian_name": "L. Vega",
+        "guardian_email": "l.vega@example.invalid",
+        "guardian_phone": "555-0163",
+        "bus_route": "7",
+        "meal_status": "free",
+        "services_plan": "IEP",
+        "photo_consent": False,
+        "absences_this_term": 11,
+        "tardies_this_term": 6,
+        "counselor_note": "Transportation has been unreliable since the move.",
+    },
+    {
+        "student_id": "RM-40121",
+        "first_name": "Aiden",
+        "last_name": "Kowalczyk",
+        "date_of_birth": "2010-06-30",
+        "grade": 8,
+        "home_address": "22 Fernhill Lane, Riverbend",
+        "guardian_name": "B. Kowalczyk",
+        "guardian_email": "b.kowalczyk@example.invalid",
+        "guardian_phone": "555-0108",
+        "bus_route": "7",
+        "meal_status": "paid",
+        "services_plan": None,
+        "photo_consent": True,
+        "absences_this_term": 4,
+        "tardies_this_term": 1,
+        "counselor_note": "",
+    },
+    {
+        "student_id": "RM-40122",
+        "first_name": "Zainab",
+        "last_name": "Osei",
+        "date_of_birth": "2011-01-08",
+        "grade": 7,
+        "home_address": "705 Ridgeview Drive, Riverbend",
+        "guardian_name": "K. Osei",
+        "guardian_email": "k.osei@example.invalid",
+        "guardian_phone": "555-0195",
+        "bus_route": "12",
+        "meal_status": "free",
+        "services_plan": None,
+        "photo_consent": False,
+        "absences_this_term": 7,
+        "tardies_this_term": 3,
+        "counselor_note": "Works evenings at the family store.",
+    },
+]
+
+# Every field the roster carries, in the order the system exports them.
+ALL_FIELDS = list(ROSTER[0].keys())

@@ -1,0 +1,48 @@
+LANTERN COMMUNITY LICENSE, VERSION 1.0
+
+INVENTED LICENSE. Written for the MCCTC 145130 Module 3 licensing fixture. This
+is not a real license and no real model is distributed under it. It is written
+in the shape that community and "open weights" model licenses are commonly
+written in, so that you can practice reading one.
+
+1. GRANT. Subject to your compliance with this License, Lantern Research
+   Collective grants you a non-exclusive, worldwide, royalty-free, revocable
+   license to use, reproduce, and modify the Model Weights and to create
+   Derivative Works of them.
+
+2. REDISTRIBUTION. If you distribute the Model Weights or a Derivative Work, you
+   must (a) provide a copy of this License to each recipient, (b) display
+   "Built with lantern-small" on any interface, documentation, or web page for
+   the product, and (c) include the file NOTICE_LANTERN.txt unmodified.
+
+3. NAMING. If you distribute a Derivative Work, its name must begin with
+   "lantern-".
+
+4. ACCEPTABLE USE. You may not use the Model Weights, or any Derivative Work, to:
+   (a) generate material that violates the law of any jurisdiction that applies
+       to you;
+   (b) generate material that impersonates a specific living person without that
+       person's consent;
+   (c) make automated decisions about a person's employment, housing, credit,
+       insurance, or education without a human reviewer who can overturn the
+       decision;
+   (d) generate material for use in a political advertisement.
+
+5. MONTHLY ACTIVE USERS. If the product you distribute has more than 500,000
+   monthly active users, you must request a separate written license from
+   Lantern Research Collective before continuing to distribute it.
+
+6. NO TRADEMARK LICENSE. This License does not grant any right to use the name
+   "Lantern", "Lantern Research Collective", or any related mark, except as
+   required by Section 2(b).
+
+7. OUTPUT. Lantern Research Collective claims no ownership in material you
+   generate with the Model Weights. This Section is a statement about what
+   Lantern Research Collective will and will not claim under this contract. It
+   is not a statement about whether any law gives you or anyone else a copyright
+   in that material.
+
+8. NO WARRANTY. THE MODEL WEIGHTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED.
+
+9. TERMINATION. This License terminates automatically if you breach Section 4.

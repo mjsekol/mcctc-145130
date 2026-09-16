@@ -1,0 +1,6 @@
+lantern-small
+Copyright 2025 Lantern Research Collective
+
+Built with lantern-small.
+
+INVENTED FILE. Part of the MCCTC 145130 Module 3 licensing fixture.

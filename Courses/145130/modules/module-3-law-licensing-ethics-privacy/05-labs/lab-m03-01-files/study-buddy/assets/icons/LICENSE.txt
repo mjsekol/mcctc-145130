@@ -1,0 +1,18 @@
+Lantern Icon Project, icon set "Study 24"
+Created by A. Nkemdirim and R. Bautista, 2024
+
+SPDX-License-Identifier: CC-BY-4.0
+
+This icon set is licensed under the Creative Commons Attribution 4.0
+International License. The license is published by Creative Commons at:
+
+    https://creativecommons.org/licenses/by/4.0/
+
+The deed at that address is a summary. The license itself is the legal code
+linked from the deed. Read the legal code, not the deed, before you rely on it.
+
+Section 3 of the license sets out what you must do when you share this material,
+including modified versions. Read it and do every item.
+
+INVENTED COMPONENT. Written for the MCCTC 145130 Module 3 licensing fixture.
+The Lantern Icon Project and the people named above are not real.

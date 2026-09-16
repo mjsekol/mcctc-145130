@@ -1,0 +1,5 @@
+This file stands in for soft-chime-end.wav so this fixture carries no binaries.
+
+Filename as downloaded: soft-chime-end.wav
+Downloaded by the Study Buddy team from a free sound library.
+License file that came with it: LICENSE.txt, in this directory.

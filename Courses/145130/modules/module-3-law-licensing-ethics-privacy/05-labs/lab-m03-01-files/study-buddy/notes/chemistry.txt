@@ -1,0 +1,7 @@
+# Chemistry notes, unit 2. Written by the Study Buddy team.
+Ionic bond: a bond formed when one atom transfers an electron to another atom
+Covalent bond: a bond formed when two atoms share a pair of electrons
+Molarity: the number of moles of solute per liter of solution
+Catalyst: a substance that speeds up a reaction without being consumed by it
+Isotope: an atom of an element with a different number of neutrons
+Mole: the amount of a substance containing as many particles as there are in the standard reference amount
