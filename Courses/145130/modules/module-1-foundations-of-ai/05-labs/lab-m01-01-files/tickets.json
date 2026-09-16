@@ -1,0 +1,78 @@
+{
+  "about": "Twelve invented help requests for Lab M01-01. Nobody named here is a real person and no request describes a real incident. human_label is the label the makerspace staff agreed on. Three tickets carry the value argue, which means the staff could not agree and you have to decide what your program should do about that.",
+  "labels": ["hardware", "software", "network", "account", "other"],
+  "tickets": [
+    {
+      "id": "MT-2001",
+      "submitted_by": "invented sample, not a real person",
+      "text": "The 3D printer in room 118 stopped in the middle of a print. The filament jammed near the nozzle. I cleared the jam but now the first layer will not stick to the bed.",
+      "human_label": "hardware"
+    },
+    {
+      "id": "MT-2002",
+      "submitted_by": "invented sample, not a real person",
+      "text": "My laptop keeps dropping the wifi in the back corner of the lab. It reconnects after about a minute. Nobody else at my table has the problem.",
+      "human_label": "network"
+    },
+    {
+      "id": "MT-2003",
+      "submitted_by": "invented sample, not a real person",
+      "text": "Visual Studio will not install the workload on station 6. The installer gets to 40 percent and then rolls back with no message I can read.",
+      "human_label": "software"
+    },
+    {
+      "id": "MT-2004",
+      "submitted_by": "invented sample, not a real person",
+      "text": "I am locked out of my account after changing my password on Monday. The login screen accepts the new one on my phone but not on the lab machines.",
+      "human_label": "account"
+    },
+    {
+      "id": "MT-2005",
+      "submitted_by": "invented sample, not a real person",
+      "text": "Somebody left a box of parts on the soldering bench and nobody knows whose it is.",
+      "human_label": "other"
+    },
+    {
+      "id": "MT-2006",
+      "submitted_by": "invented sample, not a real person",
+      "text": "The projector in room 214 shows my laptop picture but everything has a green tint. It was fine yesterday and the cable has not moved.",
+      "human_label": "hardware"
+    },
+    {
+      "id": "MT-2007",
+      "submitted_by": "invented sample, not a real person",
+      "text": "I cannot reach the shared drive from my laptop this morning, but I can still print to the printer in the same room.",
+      "human_label": "argue"
+    },
+    {
+      "id": "MT-2008",
+      "submitted_by": "invented sample, not a real person",
+      "text": "Every time I open the attendance app it crashes right after the splash screen. It happens on two different machines.",
+      "human_label": "software"
+    },
+    {
+      "id": "MT-2009",
+      "submitted_by": "invented sample, not a real person",
+      "text": "My password works on the lab machine but the printer will not accept my login when I try to release a color print job.",
+      "human_label": "argue"
+    },
+    {
+      "id": "MT-2010",
+      "submitted_by": "invented sample, not a real person",
+      "text": "The battery on the cart laptops does not last a whole block anymore. We have to plug in by second period.",
+      "human_label": "hardware"
+    },
+    {
+      "id": "MT-2011",
+      "submitted_by": "invented sample, not a real person",
+      "text": "Station 12 still has the old Python interpreter and the new syntax will not run. Can it be updated before the project is due.",
+      "human_label": "software"
+    },
+    {
+      "id": "MT-2012",
+      "submitted_by": "invented sample, not a real person",
+      "text": "Nothing works.",
+      "human_label": "argue"
+    }
+  ]
+}

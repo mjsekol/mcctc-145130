@@ -1,0 +1,1 @@
+Return only JSON with the keys label and reason and nothing else. The label must be one of hardware, software, network, account, other. Help request: The projector in room 214 shows my laptop picture but everything has a green tint and the cable has not moved.
