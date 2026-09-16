@@ -1,0 +1,7 @@
+Sure, here is the study plan you asked for in JSON:
+
+```json
+{"title": "Algebra 2 quiz prep", "steps": ["Copy the three worked examples", "Do the odd problems on page 212", "Write down every step you had to look up"], "minutes": 40}
+```
+
+Let me know if you would like it broken into smaller sessions.

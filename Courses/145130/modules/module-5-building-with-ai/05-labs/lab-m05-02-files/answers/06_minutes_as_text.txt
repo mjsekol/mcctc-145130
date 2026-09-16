@@ -1,0 +1,3 @@
+```json
+{"title": "Spanish 3 vocabulary", "steps": ["Write the 20 unit words on cards", "Say each one out loud twice", "Sort the cards into knew it and did not"], "minutes": "about 25 minutes"}
+```

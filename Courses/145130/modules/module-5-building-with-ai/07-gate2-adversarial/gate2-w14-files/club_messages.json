@@ -1,0 +1,8 @@
+[
+  {"id": "CM-01", "from": "invented sample, not a real student", "text": "The 3D printer in the shop bay finished the gearbox mounts but the last two came out warped. I think the bed is off level on one corner."},
+  {"id": "CM-02", "from": "invented sample, not a real student", "text": "Nobody on the bus could get on the wifi to upload the match video. It kept asking for a password we already put in twice."},
+  {"id": "CM-03", "from": "invented sample, not a real student", "text": "   "},
+  {"id": "CM-04", "from": "invented sample, not a real student", "text": "Visual Studio will not install the workload on station 6. The installer rolls back at 40 percent with no message anybody can read."},
+  {"id": "CM-05", "from": "invented sample, not a real student", "text": "I am locked out of the team account after changing my password on Monday. It works on my phone and not on the lab machines."},
+  {"id": "CM-06", "from": "invented sample, not a real student", "text": "Someone left a box of servo horns on the soldering bench and nobody knows whose they are."}
+]
