@@ -1,0 +1,4 @@
+Write a study plan for the topic "how a hash table handles a collision". It is
+for a classmate who missed the lesson and has to understand collisions well
+enough to answer a question about them on Friday. Finished means they know what
+a collision is, why it happens, and the two common ways of dealing with one.

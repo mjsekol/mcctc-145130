@@ -1,0 +1,11 @@
+recursion in Python
+
+how memory works in a linked list
+
+Ava needs help with SQL joins
+
+schedule help for Ava Ruiz before the district contest
+
+the difference between a stack and a queue for somebody who has only used a list
+
+how a hash table decides where to put a key when two keys collide and the table is nearly full

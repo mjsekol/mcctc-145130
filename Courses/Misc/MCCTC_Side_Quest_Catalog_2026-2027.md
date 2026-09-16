@@ -343,8 +343,11 @@ you did not know about, and you fixed it.
 # Senior Year · 145130 Applications of AI
 
 ## SQ-18 · Prompt Ablation
-**Unlocks:** 145130, early · **Time:** one block · **Difficulty:** ★★
+**Unlocks:** 145130, Module 2 · **Time:** one block · **Difficulty:** ★★
 **Competency:** 2.14.3, 2.14.4
+
+**Materials are built and in `side-quests/SQ-18-Prompt-Ablation/`.** A base prompt, an
+ablation runner, a stub model server so it runs with no model installed, and a self-check.
 
 Take one prompt that works. Remove one element at a time, run it again, and record
 what changes. Role, format instruction, examples, constraints, tone.

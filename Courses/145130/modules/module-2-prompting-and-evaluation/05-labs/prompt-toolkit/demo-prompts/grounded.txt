@@ -1,0 +1,7 @@
+You are a research assistant. Answer using only the sources below. If the answer
+is not in the sources, say I do not know. Cite your sources.
+
+SOURCE: Student handbook, section 4.2, equipment checkout and return
+SOURCE: Room 214 posted closing procedure
+
+Question: write a research brief on retrieval practice in secondary schools.

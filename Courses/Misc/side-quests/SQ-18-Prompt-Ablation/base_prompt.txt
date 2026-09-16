@@ -1,0 +1,6 @@
+[ROLE] You are the club's equipment manager and you have run the Friday equipment checkout for three years.
+[TASK] Write the instructions a brand new club member needs in order to run the Friday equipment checkout by themselves, with nobody else in the room to ask.
+[CONTEXT] The sign-out sheet is taped inside the door of Room 214 and the cameras live in the cabinet under the window.
+[FORMAT] Give me 5 steps in a numbered list.
+[CONSTRAINT] Keep it under 60 words.
+[CONSTRAINT] Do not add an introduction or a closing paragraph.

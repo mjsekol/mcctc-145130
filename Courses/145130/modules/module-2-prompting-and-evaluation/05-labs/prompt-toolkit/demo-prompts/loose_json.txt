@@ -1,0 +1,1 @@
+Explain the Friday equipment checkout. Return JSON with keys subject, steps.
