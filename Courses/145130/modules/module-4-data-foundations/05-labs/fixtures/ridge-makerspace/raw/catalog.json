@@ -1,0 +1,147 @@
+{
+  "catalog_version": "2027.1",
+  "generated_by": "invented sample data, not a real export, not a real makerspace",
+  "currency": "USD",
+  "items": [
+    {
+      "item_id": "EQ-0101",
+      "name": "Filament 3D printer, bay 1",
+      "category": "fabrication",
+      "tags": ["printing", "plastic", "training-required"],
+      "loan_days": 7,
+      "purchase": {"cost": 1249.00, "funded_by": "Perkins grant", "year": 2025},
+      "replacement_value": 1249.00,
+      "condition": "good"
+    },
+    {
+      "item_id": "EQ-0102",
+      "name": "Filament 3D printer, bay 2",
+      "category": "fabrication",
+      "tags": ["printing", "plastic", "training-required"],
+      "loan_days": 7,
+      "purchase": {"cost": 1249.00, "funded_by": "Perkins grant", "year": 2025},
+      "replacement_value": 1249.00,
+      "condition": "fair"
+    },
+    {
+      "item_id": "EQ-0110",
+      "name": "Resin 3D printer",
+      "category": "fabrication",
+      "tags": ["printing", "resin", "training-required", "ventilation-required"],
+      "loan_days": 5,
+      "purchase": {"cost": 649.50, "funded_by": "Booster club", "year": 2026},
+      "replacement_value": 649.50,
+      "condition": "good"
+    },
+    {
+      "item_id": "EQ-0115",
+      "name": "Vinyl cutter",
+      "category": "fabrication",
+      "tags": ["cutting", "training-required"],
+      "loan_days": 7,
+      "purchase": {"cost": 379.00, "funded_by": "Booster club", "year": 2024},
+      "replacement_value": 379.00,
+      "condition": "good"
+    },
+    {
+      "item_id": "EQ-0120",
+      "name": "Soldering station",
+      "category": "electronics",
+      "tags": ["soldering", "training-required"],
+      "loan_days": 14,
+      "purchase": {"cost": 189.99, "funded_by": "Perkins grant", "year": 2024},
+      "replacement_value": 189.99,
+      "condition": "good"
+    },
+    {
+      "item_id": "EQ-0121",
+      "name": "Bench power supply",
+      "category": "electronics",
+      "tags": ["power"],
+      "loan_days": 14,
+      "purchase": {"cost": 145.00, "funded_by": "Perkins grant", "year": 2024},
+      "replacement_value": 145.00,
+      "condition": "good"
+    },
+    {
+      "item_id": "EQ-0122",
+      "name": "Digital oscilloscope",
+      "category": "electronics",
+      "tags": ["measurement", "training-required"],
+      "loan_days": 14,
+      "purchase": {"cost": 512.00, "funded_by": "Perkins grant", "year": 2025},
+      "replacement_value": 512.00,
+      "condition": "good"
+    },
+    {
+      "item_id": "EQ-0130",
+      "name": "Mirrorless camera kit",
+      "category": "media",
+      "tags": ["photo", "battery"],
+      "loan_days": 3,
+      "purchase": {"cost": 899.00, "funded_by": "Booster club", "year": 2026},
+      "replacement_value": 899.00,
+      "condition": "good"
+    },
+    {
+      "item_id": "EQ-0131",
+      "name": "Shotgun microphone kit",
+      "category": "media",
+      "tags": ["audio", "battery"],
+      "loan_days": 3,
+      "purchase": {"cost": 249.00, "funded_by": "Booster club", "year": 2026},
+      "replacement_value": 249.00,
+      "condition": "fair"
+    },
+    {
+      "item_id": "EQ-0132",
+      "name": "LED panel light",
+      "category": "media",
+      "tags": ["lighting"],
+      "loan_days": 3,
+      "purchase": {"cost": 129.00, "funded_by": "Booster club", "year": 2026},
+      "replacement_value": 129.00,
+      "condition": "good"
+    },
+    {
+      "item_id": "EQ-0140",
+      "name": "Laptop cart unit 4",
+      "category": "computing",
+      "tags": ["laptop", "battery"],
+      "loan_days": 2,
+      "purchase": {"cost": 749.00, "funded_by": "District technology", "year": 2026},
+      "replacement_value": 749.00,
+      "condition": "good"
+    },
+    {
+      "item_id": "EQ-0141",
+      "name": "Laptop cart unit 9",
+      "category": "computing",
+      "tags": ["laptop", "battery"],
+      "loan_days": 2,
+      "purchase": {"cost": 749.00, "funded_by": "District technology", "year": 2026},
+      "replacement_value": 749.00,
+      "condition": "poor"
+    },
+    {
+      "item_id": "EQ-0150",
+      "name": "Robot chassis kit",
+      "category": "robotics",
+      "tags": ["robotics", "training-required"],
+      "loan_days": 10,
+      "purchase": {"cost": 329.00, "funded_by": "Booster club", "year": 2025},
+      "replacement_value": 329.00,
+      "condition": "good"
+    },
+    {
+      "item_id": "EQ-0151",
+      "name": "Servo and sensor bin",
+      "category": "robotics",
+      "tags": ["robotics", "electronics"],
+      "loan_days": 10,
+      "purchase": {"cost": 96.75, "funded_by": "Booster club", "year": 2027},
+      "replacement_value": 96.75,
+      "condition": "good"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+# Ridge Creek Makerspace sign-in kiosk export
+# Invented sample data. No real person appears in this file.
+# member_id|full_name|grade_level|program|joined
+RC0142|Amara Delgado|11|Engineering Technology|09/02/2026
+RC0143|Theo Brandt|12|Programming and Software Development|09/02/2026
+RC0151|Priya Raghavan|11|Engineering Technology|09/09/2026
+RC0158|Marcus Whitfield|12|Welding|09/16/2026
+RC0160|June Okafor|11|Programming and Software Development|10/01/2026
+RC0166|Dante Rossi|10|Visual Design|10/14/2026
+RC0171|Sela Vaifale|12|Welding |10/14/2026
+RC0174|Noor Haddad|11|Programming & Software Development|11/03/2026
+RC0180|Casey Lindgren|12|Visual Design|11/03/2026
+RC0181|Emiliano Cruz|10|Engineering Technology|01/12/2027
+RC0188|Wren Halvorsen|11|Programming and Software Development|02/02/2027
+RC0190|Tobias Nkemelu|12|Automotive Technology|02/09/2027
+RC0193|Harlow Bennett|10||02/23/2027
+RC0195|Imani Osei|10|Automotive Technology|03/09/2027

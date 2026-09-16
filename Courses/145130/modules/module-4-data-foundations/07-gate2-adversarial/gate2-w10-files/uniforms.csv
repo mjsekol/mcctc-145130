@@ -1,0 +1,13 @@
+uniform_id,piece,size,condition
+U-101,jacket,S,good
+U-102,jacket,M,good
+U-103,jacket,M,fair
+U-104,jacket,L,good
+U-105,jacket,XL,poor
+U-201,trousers,S,good
+U-202,trousers,M,good
+U-203,trousers,M,good
+U-204,trousers,L,fair
+U-301,shako,one size,good
+U-302,shako,one size,good
+U-303,shako,one size,poor

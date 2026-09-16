@@ -1,8 +1,17 @@
 # Lecture Notes: Tokens and the Context Window
 ## 145130 Applications of AI · Module 1 · Week 1, Wednesday
 
-**Slides for this lesson:** [outline](../04-slides/MCCTC_145130_Slides_W01_TokensAndContext.md) ·
-[deck](../04-slides/exports/MCCTC_145130_Slides_W01_TokensAndContext.pptx)
+**Slides for this lesson:** [outline](../04-slides/MCCTC_145130_Slides_W01_TokensAndContext.md)
+
+**There is no exported deck for this lesson yet.** The outline is current. The old export
+showed the model service refusing a 4001 character prompt, and that service came out of this
+module, so the export was removed rather than left in place: a deck that contradicts the
+lesson is worse than no deck. The Gamma account ran out of credits before it could be
+regenerated. Teach from the outline, or generate the deck once credits are available:
+
+```
+node tools/gamma.js Courses/145130/modules/module-1-foundations-of-ai/04-slides/MCCTC_145130_Slides_W01_TokensAndContext.md --export pptx
+```
 
 If you missed class you can learn this from this file alone. You need the files
 in `../05-labs/local-model-kit/`.
