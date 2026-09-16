@@ -1,0 +1,2 @@
+my laptop keeps dropping the wifi in the back corner of the lab it reconnects
+after about a minute but by then whatever i was uploading has failed

@@ -1,0 +1,2 @@
+The 3D printer in room 118 stopped in the middle of a print again. The filament
+jammed near the nozzle. I cleared it but the first layer will not stick now.

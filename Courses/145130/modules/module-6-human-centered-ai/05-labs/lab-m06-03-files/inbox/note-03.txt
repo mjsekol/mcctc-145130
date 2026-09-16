@@ -1,0 +1,2 @@
+Visual Studio will not install the workload on station 6. It gets to about
+eighty percent and then rolls itself back with no message I can read.

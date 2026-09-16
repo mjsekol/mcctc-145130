@@ -1,0 +1,2 @@
+The update that went out last night made the design software crash every time
+somebody opens a file from the shared drive. Three people so far this morning.

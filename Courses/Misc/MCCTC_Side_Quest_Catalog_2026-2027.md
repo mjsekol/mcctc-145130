@@ -380,8 +380,11 @@ can only confirm what you already believed is not a test.
 ---
 
 ## SQ-20 · Explain It to a Seventh Grader
-**Unlocks:** 145130 · **Time:** one block · **Difficulty:** ★
-**Competency:** 2.14.2, 1.2.5
+**Unlocks:** 145130, Module 6 · **Time:** one block · **Difficulty:** ★
+**Competency:** 2.14.1, 2.14.2, 1.2.5
+
+**Materials are built and in `side-quests/SQ-20-Explain-It-To-A-Seventh-Grader/`.** A jargon
+checker, a sample script to fix, and comprehension questions a real seventh grader can answer.
 
 Write and record a five-minute explanation of how a language model produces text,
 aimed at a twelve-year-old. No jargon that you do not define.

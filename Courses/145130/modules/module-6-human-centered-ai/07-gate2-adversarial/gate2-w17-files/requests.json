@@ -1,0 +1,62 @@
+{
+  "_note": "Invented data. No name, class, or count here belongs to a real person or a real shelf. The submitted_by names are made up so that the privacy requirement has something to be about.",
+  "exported_by": "inventory tool, weekly export",
+  "requests": [
+    {
+      "id": "SR-101",
+      "item": "PLA filament, white, 1kg",
+      "on_hand": 2,
+      "threshold": 5,
+      "note": "We are down to two spools and the freshman class starts their print unit next week.",
+      "submitted_by": "A. Marchetti"
+    },
+    {
+      "id": "SR-102",
+      "item": "Safety glasses, clear",
+      "on_hand": 6,
+      "threshold": 6,
+      "note": "Six pairs left on the rack. Two of them have scratched lenses and should be pulled.",
+      "submitted_by": "D. Okonkwo"
+    },
+    {
+      "id": "SR-103",
+      "item": "Nitrile gloves, box of 100",
+      "on_hand": 1,
+      "threshold": 4,
+      "note": "One box left. The resin printer cannot be run without gloves so this one stops work.",
+      "submitted_by": "A. Marchetti"
+    },
+    {
+      "id": "SR-104",
+      "item": "SD card, 32 GB",
+      "on_hand": 9,
+      "threshold": 4,
+      "note": "Plenty of these. Somebody found a sleeve of them in the back cabinet.",
+      "submitted_by": "R. Villalobos"
+    },
+    {
+      "id": "SR-105",
+      "item": "Lanyards, navy",
+      "on_hand": 3,
+      "threshold": 3,
+      "note": "Three lanyards left. New students get one on their first day and we have four starting.",
+      "submitted_by": "T. Brennan"
+    },
+    {
+      "id": "SR-106",
+      "item": "Painters tape, blue, 1 inch",
+      "on_hand": 0,
+      "threshold": 2,
+      "note": "None at all. People are taping build plates with masking tape and it is lifting.",
+      "submitted_by": "D. Okonkwo"
+    },
+    {
+      "id": "SR-107",
+      "item": "Standard resin, grey, 1L",
+      "on_hand": 4,
+      "threshold": 4,
+      "note": "Four bottles. That is exactly the reorder line and the vendor takes three weeks.",
+      "submitted_by": "R. Villalobos"
+    }
+  ]
+}
