@@ -51,7 +51,7 @@ Image: None. This slide is code.
 - Refuse, and say the number
 - Truncate, and usually not say
 - Summarise, and lose detail quietly
-Speaker notes: Ours refuses. Most chat products truncate or summarise, silently. Truncating silently is the one to watch for, because the output looks completely normal. You asked about a ten page document, four pages were sent, and the answer is confident and complete about four pages. Nothing on the screen tells you.
+Speaker notes: Ours does none of these, because it is a stand-in with no window at all. A real model does one of the three. Most chat products truncate or summarise, silently. Truncating silently is the one to watch for, because the output looks completely normal. You asked about a ten page document, four pages were sent, and the answer is confident and complete about four pages. Nothing on the screen tells you.
 Image: A long document with a scissors line partway through and no warning.
 ---
 ## Slide 8: Proving there is no memory
@@ -83,6 +83,6 @@ Image: A storage box with a label reading what I chose to keep.
 - Record both. Both will work
 - Then decide: refuse, truncate, or summarise
 - Write what you would tell the person
-Speaker notes: Build one is the two prompts, and the result is going to feel like a failure because both of them work. That is the finding. Build two is the design question and it is the part I am grading: your program has a document larger than the window, and you write down which of the three options you would pick and what you would tell the person either way. There is no right answer and there are several wrong ones.
+Speaker notes: Build one is the two prompts, and the result is going to feel like a failure because both of them work. That is the finding. Then the design question, and it is the part I am grading: your program has a document larger than the window, and you write down which of the three options you would pick and what you would tell the person either way. There is no right answer and there are several wrong ones.
 Image: A prompt measured against a limit line, one character over and one under.
 ---
